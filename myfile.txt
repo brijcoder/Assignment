@@ -1,0 +1,4 @@
+Q: What are the differences between a pointer variable and a reference variable in C++?
+Q: What is a smart pointer and when should I use one?
+A: How do I undo the most recent local commits in Git?
+A: How do JavaScript closures work?
